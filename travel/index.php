@@ -217,7 +217,7 @@
 						</div>
 							
 						<div class="footerText">
-							CUSAT,Cochin <br> Kerala, India
+							Hyderabad,Telangana <br> India
 						</div>
 				
 						<div class="footerText">
@@ -260,7 +260,7 @@
 					<div class="col-sm-12">
 					<div class="copyrightContainer">
 						<div class="copyright">
-						Copyright &copy; 2021 Alisha Anand
+						Copyright &copy; 2025
 						</div>
 					</div>
 					</div>

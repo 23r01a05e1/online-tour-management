@@ -65,7 +65,7 @@
 				<span class="bold"><h2>We're located at:</h2></span>
 				</br>
 				<br>
-				<h4>CUSAT,Cochin,Kerala,India</h4>
+				<h4>Hyderabad,Telangana,India</h4>
 			
 			</div>
 		
