@@ -1,3 +1,8 @@
+# Online Tourist Management System
+
+## 👥 Team Project
+
+This project was developed collaboratively as part of a team.
 # Project Name : Tourism Management System 
 Technology Implemented : Apache Server  
 Language Used: PHP  
